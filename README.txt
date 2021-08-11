@@ -12,14 +12,13 @@ This plugin will help you to add Guest Post feature in your wordpress site.
 
 == Description ==
 
-Are you want to add Guest Post system with frontend form, this plugin will help you to do this very easily. You just need to use two shortcodes.
+Customer feedback and rating system WordPress plugin. Here customers can submit feedback and rating. Admin can show those feedback and ratings anywhere on the website just using shortcode
 
 == Features ==
 
 * Frontend form
-* You can show posts on frontend just using shortcode
-* Only loggedin users can access the form
-* By default all the posts status will be "Pending"
+* You can show feedbacks and ratings on frontend just using shortcode
+* By default all the feedback status will be "Pending"
 * Very clean code, so you can modify the plugin very easily
 
 == Usages ==
